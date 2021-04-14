@@ -1,0 +1,32 @@
+{
+  "name": "Daily-biblical-image-generator",
+  "version": "1.0.0",
+  "description": "📖🖼️ Daily biblical image generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasp402/Daily-biblical-image-generator.git"
+  },
+  "keywords": [
+    "generator",
+    "image",
+    "bible"
+  ],
+  "author": {
+    "name": "Jesús Antonio Pérez Sandoval",
+    "email": "jasp402@gmail.com",
+    "url": "http://jasp402.com/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasp402/Daily-biblical-image-generator/issues"
+  },
+  "homepage": "https://github.com/jasp402/Daily-biblical-image-generator#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^8.0.0"
+  }
+}
