@@ -14,10 +14,15 @@ const optionGoTo = {
 const urlPage = 'https://www.bible.com/es/verse-of-the-day';
 const urlImage = code => `https://imageproxy.youversionapi.com/1280x1280/https://s3.amazonaws.com/static-youversionapi-com/images/base/${code}/1280x1280.jpg`
 
+function currentDate(){
+	let date       = new Date();
+	let dateString = new Date(date.getTime() - (date.getTimezoneOffset() * 60000)).toISOString().split("T")[0];
+	return dateString.split('-').reverse().join('-');
+}
 async function download(code) {
 	const response = await fetch(urlImage(code));
 	const buffer   = await response.buffer();
-	fs.writeFileSync(`./assets/${code}.jpg`, buffer);
+	fs.writeFileSync(`./assets/${currentDate()}_${code}.jpg`, buffer);
 }
 
 (async () => {
@@ -38,7 +43,8 @@ async function download(code) {
 			.filter(part => part.indexOf('?') > -1)[0]
 			.split('?')[0]
 	);
-	console.log(result);
 	download(result);
 	await browser.close();
 })();
+
+
