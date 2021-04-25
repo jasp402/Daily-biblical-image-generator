@@ -38,10 +38,15 @@ y leer este articulo escrito en Medium donde se descompone parte por parte.
 ### [Mi experiencia con Bots de Automatización](https://medium.com/@jasp402/mi-experiencia-con-bots-de-automatizaci%C3%B3n-e6a4fa24fe9f)
 <img align="left" width="361" height="300" src="https://user-images.githubusercontent.com/8978470/116012319-75612680-a5ef-11eb-84cb-79eea5ebfa04.png">
 
-Lo primero es ver como llega la imagen. si esta esta almacenada directamente en la pagina o proviene de otro servicio. para ello vamos a inspeccionar el elemento. Y esto es más o menos con lo que nos encontramos. la imagen actual tiene una resolución de 420x640 incluso algunas varían. También podemos apreciar que las imágenes están en otro servidor y que son publicas. pero notamos que tienen un código que cambia todos los días…
+Lo primero es ver como llega la imagen. si esta esta almacenada directamente en la pagina o proviene de otro servicio. para ello vamos a inspeccionar el elemento. Y esto es más o menos con lo que nos encontramos. la imagen actual tiene una resolución de 420x640 incluso algunas varían. También podemos apreciar que las imágenes están en otro servidor y que son publicas. pero notamos que tienen un código que cambia todos los días… <br>
 [leer más...](https://medium.com/@jasp402/scraping-a-https-www-bible-com-d702b380c84e)
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Donar
 <img width="545" alt="yellow-button" src="https://user-images.githubusercontent.com/8978470/116011951-2ca86e00-a5ed-11eb-8ed3-34771ed33145.png">
