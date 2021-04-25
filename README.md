@@ -36,6 +36,7 @@ Si te interesa saber todos los detalles puedes ver este video de como fue creado
 y leer este articulo escrito en Medium donde se descompone parte por parte. 
 
 # Donar
-![image](https://user-images.githubusercontent.com/8978470/116011816-8ceae000-a5ec-11eb-83ea-e695423bca8d.png)
+<img width="545" alt="yellow-button" src="https://user-images.githubusercontent.com/8978470/116011951-2ca86e00-a5ed-11eb-8ed3-34771ed33145.png">
+
 Interesado en contribuir con mis proyectos, puedes invitame un cafe <br>
 [buymeacoffee.com/Wjton2s](buymeacoffee.com/Wjton2s)
