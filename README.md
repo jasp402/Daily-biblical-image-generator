@@ -1,4 +1,4 @@
-#📖🖼️ Daily Biblical Image Generator
+# 📖🖼️ Daily Biblical Image Generator
 
 Este proyecto se basa en realizar un scraping a la pagina web 'https://www.bible.com/es/verse-of-the-day'.
 la cual genera una imagen diaria con un bersiculo biblico. de hecho por dia se generan varias opciones para un mismo versiculo.
