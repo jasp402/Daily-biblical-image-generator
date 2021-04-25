@@ -22,10 +22,11 @@ function currentDate(){
 async function download(code) {
 	const response = await fetch(urlImage(code));
 	const buffer   = await response.buffer();
-	fs.writeFileSync(`./assets/${currentDate()}_${code}.jpg`, buffer);
+	fs.writeFileSync(`${__dirname}/assets/${currentDate()}_${code}.jpg`, buffer);
 }
 
-(async () => {
+(async () =>
+{
 	const browser = await puppeteer.launch(optionsLaunch);
 	const page    = await browser.newPage();
 	
@@ -44,7 +45,6 @@ async function download(code) {
 			.split('?')[0]
 	);
 	download(result);
+	console.log(`${__dirname}\\assets\\${currentDate()}_${result}.jpg`);
 	await browser.close();
 })();
-
-
