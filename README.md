@@ -36,4 +36,6 @@ Si te interesa saber todos los detalles puedes ver este video de como fue creado
 y leer este articulo escrito en Medium donde se descompone parte por parte. 
 
 # Donar
-Interesado en contribuir con mis proyectos invitame un caf
+![image](https://user-images.githubusercontent.com/8978470/116011816-8ceae000-a5ec-11eb-83ea-e695423bca8d.png)
+Interesado en contribuir con mis proyectos, puedes invitame un cafe <br>
+[buymeacoffee.com/Wjton2s](buymeacoffee.com/Wjton2s)
