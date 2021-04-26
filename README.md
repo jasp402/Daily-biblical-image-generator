@@ -32,7 +32,7 @@ Estas se almacenan en la carpeta `/assets` con la fecha actual y el codigo de la
 `npm start`
 
 # ¿como funciona?
-Leer este articulo escrito en Medium donde se descompone parte por parte. 
+He escrito este articulo para describir paso a paso como fue desarrollado. 
 
 ### [Medium - Scraping a bible.com](https://medium.com/@jasp402/mi-experiencia-con-bots-de-automatizaci%C3%B3n-e6a4fa24fe9f)
 <img align="left" width="361" height="300" src="https://user-images.githubusercontent.com/8978470/116012319-75612680-a5ef-11eb-84cb-79eea5ebfa04.png">
